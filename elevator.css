@@ -1,0 +1,105 @@
+#back {
+    background: grey;
+    border: 5px solid black;
+    width: 250px;
+    height: 400px;
+}
+
+#display {
+    background: black;
+    margin: 25px;
+    height: 150px;
+}
+
+#floor {
+
+}
+
+#floor1 {
+    font-size: 100px;
+    margin: 25px;
+    padding-top: 15px;
+    color: white;
+}
+
+#floor2 {
+    font-size: 100px;
+    margin: 25px;
+    padding-top: 15px;
+    color: white;
+}
+
+#floor3 {
+    font-size: 100px;
+    margin: 25px;
+    padding-top: 15px;
+    color: white;
+}
+
+#floor4 {
+    font-size: 100px;
+    margin: 25px;
+    padding-top: 15px;
+    color: white;
+}
+
+#up {
+    background: darkgreen;
+    height: 25px;
+    width: 25px;
+    float: right;
+    margin: 25px; 
+    margin-right: 25px; 
+    margin-top: -120px; 
+}
+
+#down {
+    background: darkred; 
+    height: 25px;
+    width: 25px;
+    float: right;
+    margin: 25px; 
+    margin-right: 25px; 
+    margin-top: -65px; 
+}
+
+#button1 {
+    height: 75px;
+    width: 75px;
+    margin: 15px;
+    border-radius: 40px;
+    background: white;
+    border: 5px solid black;
+}
+
+#button2 {
+    height: 75px;
+    width: 75px;
+    margin: 15px;
+    border-radius: 40px;
+    background: white;
+    border: 5px solid black;
+}
+
+#button3 {
+    height: 75px;
+    width: 75px;
+    margin: 15px;
+    border-radius: 40px;
+    background: white;
+    border: 5px solid black;
+}
+
+#button4 {
+    height: 75px;
+    width: 75px;
+    margin: 15px;
+    border-radius: 40px;
+    background: white;
+    border: 5px solid black;
+}
+
+#buttons {
+    margin-top: -15px;
+    margin-left: 15px; 
+}
